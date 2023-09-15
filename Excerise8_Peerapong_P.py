@@ -28,4 +28,5 @@ if usernameInput == 'admin' and passwoordInput == '1234':
        priceProduct = 50000
        total = unit * priceProduct
        print("คุณต้องจ่ายเงินทั้งหมด :  ",total)
+       
 print("------ขอบคุณที่ใช้บริการร้านเรานะ------------")
