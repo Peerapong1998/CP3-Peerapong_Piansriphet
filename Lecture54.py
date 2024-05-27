@@ -37,5 +37,5 @@ if Login()== True:
     elif userselected == 2:
         print("Total Price","=",PriceCalculate2(),"Baht")
     else:
-        print("Don't have select")
+        print("ํYou don't have Menu  ")
 print("*****************Thank You*****************")
